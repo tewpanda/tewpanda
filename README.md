@@ -91,5 +91,3 @@ Debian server running Docker, organized by function:
 Remote access only through Tailscale, with no open router ports. Besides being my practice infrastructure, it hosts game servers for my friends.
 
 <p align="center"><a href="https://linkedin.com/in/gianluca-salvi"><img src="https://img.shields.io/badge/LinkedIn-gianluca--salvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:gianlucasalvi3@gmail.com"><img src="https://img.shields.io/badge/Email-gianlucasalvi3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F3A5F&height=40&section=footer" alt="" width="100%" />
