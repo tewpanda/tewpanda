@@ -26,6 +26,7 @@ Estudiante de Ingeniería Civil Informática · Universidad Finis Terrae<br>
 | Backend | FastAPI · SQLAlchemy · Alembic · PostgreSQL · SQLite · Redis |
 | Frontend | JavaScript · Next.js (prototipo) |
 | Infraestructura | Linux (Debian) · Docker · Caddy · Tailscale · Pi-hole · Portainer · Netdata |
+| Visión por computador | OpenCV |
 | Herramientas | Git · pytest |
 
 ### Proyectos
@@ -70,6 +71,7 @@ Civil Engineering in Computer Science student · Universidad Finis Terrae<br>
 | Backend | FastAPI · SQLAlchemy · Alembic · PostgreSQL · SQLite · Redis |
 | Frontend | JavaScript · Next.js (prototype) |
 | Infrastructure | Linux (Debian) · Docker · Caddy · Tailscale · Pi-hole · Portainer · Netdata |
+| Computer vision | OpenCV |
 | Tools | Git · pytest |
 
 ### Projects
