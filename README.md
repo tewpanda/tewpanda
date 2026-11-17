@@ -44,34 +44,6 @@ Servidor Debian con Docker, organizado por función:
 
 <p align="center"><img src="assets/homelab-es.svg" alt="Mapa de mi homelab por función: acceso, red y DNS, operación y aplicaciones" width="760" /></p>
 
-<details>
-<summary>Ver código del diagrama (Mermaid)</summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E8F0FB','primaryBorderColor':'#3B82F6','primaryTextColor':'#1F3A5F','lineColor':'#4C8DF6','clusterBkg':'#F4F8FE','clusterBorder':'#3B82F6'}}}%%
-flowchart TB
-  subgraph acc["Acceso"]
-    direction LR
-    ts["Tailscale"] --> cd["Caddy"]
-  end
-  subgraph net["Red y DNS"]
-    ph["Pi-hole"]
-  end
-  subgraph ops["Operación"]
-    direction LR
-    pt["Portainer"] --- nd["Netdata"]
-  end
-  subgraph app["Aplicaciones"]
-    direction LR
-    fl["Proyectos"] --- gm["Servidores de juegos"]
-  end
-  cd --> app
-  ops -.-> app
-  net -.-> app
-```
-
-</details>
-
 Acceso remoto solo por Tailscale, sin abrir puertos en el router. Además de ser mi infraestructura de práctica, hospeda servidores de juegos para mis amigos.
 
 ---
@@ -115,34 +87,6 @@ Civil Engineering in Computer Science student · Universidad Finis Terrae<br>
 Debian server running Docker, organized by function:
 
 <p align="center"><img src="assets/homelab-en.svg" alt="Map of my homelab by function: access, network and DNS, operations and applications" width="760" /></p>
-
-<details>
-<summary>View diagram source (Mermaid)</summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E8F0FB','primaryBorderColor':'#3B82F6','primaryTextColor':'#1F3A5F','lineColor':'#4C8DF6','clusterBkg':'#F4F8FE','clusterBorder':'#3B82F6'}}}%%
-flowchart TB
-  subgraph acc["Access"]
-    direction LR
-    ts["Tailscale"] --> cd["Caddy"]
-  end
-  subgraph net["Network and DNS"]
-    ph["Pi-hole"]
-  end
-  subgraph ops["Operations"]
-    direction LR
-    pt["Portainer"] --- nd["Netdata"]
-  end
-  subgraph app["Applications"]
-    direction LR
-    fl["Projects"] --- gm["Game servers"]
-  end
-  cd --> app
-  ops -.-> app
-  net -.-> app
-```
-
-</details>
 
 Remote access only through Tailscale, with no open router ports. Besides being my practice infrastructure, it hosts game servers for my friends.
 
