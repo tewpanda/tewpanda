@@ -35,7 +35,7 @@ Estudiante de Ingeniería Civil Informática · Universidad Finis Terrae<br>
 <tr>
 <td width="33%" valign="top"><h4>Asistencia</h4><p>App web para controlar asistencia a clases y faltas restantes.</p><p><sub><code>Python · FastAPI · PostgreSQL · pytest</code></sub></p><p><sub><i>Código privado, a solicitud</i></sub></p></td>
 <td width="33%" valign="top"><h4>cppaudit</h4><p>Evaluador de proyectos C++ con informe PDF.</p><p><sub><code>FastAPI · Redis · Next.js · Stripe</code></sub></p><p><sub><i>Prototipo</i></sub></p></td>
-<td width="33%" valign="top"><h4>Monitor remoto de oficina</h4><p>Detecta movimiento y sonido y los muestra en un panel web en vivo. Proyecto universitario en equipo de 5.</p><p><sub><code>Python · OpenCV · SQLite · JavaScript</code></sub></p><p><sub><i>Seguirá como proyecto de título</i></sub></p></td>
+<td width="33%" valign="top"><h4>Monitor remoto de oficina</h4><p>Detecta movimiento y sonido y los muestra en un panel web en vivo. Proyecto universitario desarrollado por mí.</p><p><sub><code>Python · OpenCV · SQLite · JavaScript</code></sub></p><p><sub><i>Seguirá como proyecto de título</i></sub></p></td>
 </tr>
 </table>
 
@@ -80,7 +80,7 @@ Civil Engineering in Computer Science student · Universidad Finis Terrae<br>
 <tr>
 <td width="33%" valign="top"><h4>Asistencia</h4><p>Web app to track class attendance and remaining absences.</p><p><sub><code>Python · FastAPI · PostgreSQL · pytest</code></sub></p><p><sub><i>Private code, on request</i></sub></p></td>
 <td width="33%" valign="top"><h4>cppaudit</h4><p>C++ project evaluator with PDF reports.</p><p><sub><code>FastAPI · Redis · Next.js · Stripe</code></sub></p><p><sub><i>Prototype</i></sub></p></td>
-<td width="33%" valign="top"><h4>Office remote monitor</h4><p>Detects motion and sound and shows them on a live web dashboard. University team project of 5.</p><p><sub><code>Python · OpenCV · SQLite · JavaScript</code></sub></p><p><sub><i>Will continue as my thesis project</i></sub></p></td>
+<td width="33%" valign="top"><h4>Office remote monitor</h4><p>Detects motion and sound and shows them on a live web dashboard. University project I built myself.</p><p><sub><code>Python · OpenCV · SQLite · JavaScript</code></sub></p><p><sub><i>Will continue as my thesis project</i></sub></p></td>
 </tr>
 </table>
 
